@@ -6,14 +6,14 @@ Welcome! This repository contains a collection of projects, exercises, and code 
 
 ## 📁 Repository Contents
 This archive includes the following console-based (CLI) applications:
-* ** Math Game:** A simple game executing core arithmetic operations (addition, subtraction, multiplication, division).
-* ** Rock-Paper-Scissors:** A text-based interactive game using random number generation and conditional logic.
-* ** Bank App:** A simple bank functionality and logic.
-* ** ATM:** A simple ATM functionality.
-* ** OOP string library:** Custom string library using OOP.
-* ** Bank full app:** Full bank app using all previous projects and OOP.
-* ** Utility library:** Utility library containing useful functions for all projects.
-* ** Double linked list:** Double linked list datastructure.
+* **Math Game:** A simple game executing core arithmetic operations (addition, subtraction, multiplication, division).
+* **Rock-Paper-Scissors:** A text-based interactive game using random number generation and conditional logic.
+* *Bank App:** A simple bank functionality and logic.
+* **ATM:** A simple ATM functionality.
+* **OOP string library:** Custom string library using OOP.
+* **Bank full app:** Full bank app using all previous projects and OOP.
+* **Utility library:** Utility library containing useful functions for all projects.
+* **Double linked list:** Double linked list datastructure.
 
 ## 🛠️ Concepts & Technologies Covered
 * **Language:** C++
