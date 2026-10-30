@@ -1,0 +1,31 @@
+﻿  11-BankOOP.cpp
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsUser.h(187,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsUser.h(164,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(204,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(182,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(168,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(192,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(193,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(194,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(415,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(427,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(438,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(440,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsCurrencyClaculator.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsBankClient.h(371): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\11-BankOOP\clsUser.h(343): warning C4715: 'clsUser::Save': not all control paths return a value
+  11-BankOOP.vcxproj -> C:\My Work Space\Projects\C++\#11-BankOOP\11-BankOOP\x64\Debug\11-BankOOP.exe
